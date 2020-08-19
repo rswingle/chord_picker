@@ -35,3 +35,26 @@ def interval(prog):
 x = sample(notes, randint(3,4))
 
 print(x)
+
+'''
+Ionian = none
+Dorian = b3, b7
+Phrygian = b2, b3, b6, b7
+Lydian = #4
+Mixolydian = b7
+Aeolian (Natural Minor) = b3, b6, b7
+Locrian = b2, b3, b5, b6, b7
+
+Ionian = Major : none
+Dorian = Minor: #6
+Phrygian = Minor: b2
+Lydian = Major: #4
+Mixolydian = Major: b7
+Aeolian = Minor : none
+Locrian = Minor: b2,  b5
+
+C Major: CDEFGAB
+D Dorian: DEFGABC
+E Phrygian: EFGABCD
+
+'''
